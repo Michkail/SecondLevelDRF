@@ -59,7 +59,4 @@ creating a new Web API which will provide a list of Quotes!
 ♩  contenx
 ♪  source
 ♬  created_at
-♫  city  
-♩  created_at
-♪  available
 ```
